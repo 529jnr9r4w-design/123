@@ -13,7 +13,7 @@ import qrcode
 
 # 示例：
 # WEB_URL = "https://yourusername.github.io/xiangyin/"
-WEB_URL = "https://你的用户名.github.io/你的仓库名/"
+WEB_URL = "https://529jnr9r4w-design.github.io/123/"
 
 qr = qrcode.QRCode(
     version=2,
